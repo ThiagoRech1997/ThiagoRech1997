@@ -20,6 +20,6 @@
   <a href="https://www.instagram.com/thiago.rech1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagorech.1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/ThiagoRech1997)
+  ![Snake animation](https://github.com/ThiagoRech1997/ThiagoRech1997/blob/output/github-contribution-grid-snake.svg)
  
 </div>
