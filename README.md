@@ -5,7 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoRech1997&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRech1997&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoRech1997&theme=nord&hide_border=true&no-frame=true&row=1&column=7%22%20alt=%22cifertech%20points" alt="ThiagoRech1997 points"/>
+</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
