@@ -70,10 +70,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ThiagoRech1997/ThiagoRech1997/output/snake.svg" alt="Snake animation" />
-
-###
