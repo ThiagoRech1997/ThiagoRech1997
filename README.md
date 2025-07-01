@@ -2,6 +2,17 @@
 
 Desenvolvedor apaixonado por tecnologia e inovação. Atualmente trabalho com desenvolvimento web, mobile e também tenho experiência em desenvolvimento de jogos e sistemas embarcados.
 
+## 🚀 Sobre Mim
+
+Sou um desenvolvedor full-stack com foco em criar soluções inovadoras e eficientes. Minha jornada na tecnologia começou com programação básica e evoluiu para desenvolvimento de aplicações web, mobile e até mesmo jogos. 
+
+**Interesses atuais:**
+- 🤖 Inteligência Artificial e Machine Learning
+- 🎮 Desenvolvimento de Jogos
+- 📱 Aplicações Mobile
+- 🌐 Desenvolvimento Web Moderno
+- 🔧 Sistemas Embarcados
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -9,49 +20,100 @@ Desenvolvedor apaixonado por tecnologia e inovação. Atualmente trabalho com de
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoRech1997&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+### 📈 Contribuições
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoRech1997&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
+</div>
+
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens de Programação
+### 🖥️ Linguagens de Programação
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
 
-### Serviços e Ferramentas
+### 🗄️ Bancos de Dados
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </div>
+
+### 🚀 DevOps & Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+### 🏗️ Frameworks & Arquiteturas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</div>
+
+### 🆕 Tecnologias em Aprendizado
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</div>
+
+## 💼 Projetos em Destaque
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎮 Projeto de Jogo</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://via.placeholder.com/400x200/7289DA/FFFFFF?text=Projeto+de+Jogo" width="100%" alt="Projeto de Jogo"/>
+          </a>
+          <p align="center">
+            Desenvolvimento de jogo usando Unity/C# com foco em mecânicas inovadoras e experiência do usuário.
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 Aplicação Web</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://via.placeholder.com/400x200/7289DA/FFFFFF?text=Aplicação+Web" width="100%" alt="Aplicação Web"/>
+          </a>
+          <p align="center">
+            Aplicação web full-stack desenvolvida com React, Node.js e banco de dados MySQL.
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎯 Objetivos
+
+- [ ] Contribuir para projetos open source
+- [ ] Desenvolver aplicações mobile nativas
+- [ ] Aprofundar conhecimentos em IA/ML
+- [ ] Criar um portfólio de jogos
+- [ ] Participar de hackathons e eventos tech
 
 ## 📫 Conecte-se Comigo
 
@@ -73,4 +135,8 @@ Desenvolvedor apaixonado por tecnologia e inovação. Atualmente trabalho com de
 ---
 
 ⭐ Se este perfil foi útil para você, considere dar uma estrela!
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThiagoRech1997&style=flat-square&color=blue" alt="profile views" />
+</div>
 
